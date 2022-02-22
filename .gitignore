@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+index.html
+.vscode
+.env
+src/firebase-config.ts
